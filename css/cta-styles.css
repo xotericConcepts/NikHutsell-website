@@ -1,0 +1,31 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,500,600,700,300 | Cinzel:400);
+
+.main_content {
+    height: 100%;
+    padding: 3em;
+    background-color: #ffffff;
+    align-content: center;
+    text-align: center;
+    margin: auto;
+    max-width: 1260px;
+}
+body {
+    height: 100vh;
+}
+h1 {
+    font-size: 2em;
+}
+h1, h2, h3, p, img {
+    display: inline-flex;
+}
+img {
+    
+    width: 30%;
+    float: left;
+}
+p {
+    padding: 0 10px;
+    width: 70%;
+    text-align: left;
+    clear: left;
+}
